@@ -7,15 +7,3 @@ Execute run.sh to
 3. create dml.sql which will have all insert statements with the necessary data from json files.
 4. exectute dml.sql to over volt database.
 5. remove dml.sql from os.
-   
-Test changes 
-
-this is another change
-
-this is the 3rd change
-
-
-and there are many more
-
-we have many more changes 
-
